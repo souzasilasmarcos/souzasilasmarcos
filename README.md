@@ -2,7 +2,7 @@
 
 **Bem vindo ao meu repo LasMarco**
 
-Aqui estão um pouco mais sobre mim:
+Aqui tem um pouco mais sobre mim:
 
 - 🔭 Sou Silas Trabalho com IT ja faz um tempo e gosto cada vez mais dessa ciência. ...
 - 🌱 Trabalho com Linux e Containers alem de IaC para agilizar as coisas ...
